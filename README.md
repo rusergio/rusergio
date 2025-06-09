@@ -4,11 +4,9 @@
 🚀 Apasionado por el desarrollo web, base de datos y diseño digital
 
 ## 🧑‍💻 Sobre mí
-
 - 🌐 Trabajo en proyectos frontend y backend
 - ⚙️ Tecnologías principales: React, Laravel, PostgreSQL
 - 🎨 También tengo experiencia en diseño gráfico y SIG
-- 📚 Actualmente aprendiendo TypeScript y automatización web
   
 ## 📊 Estadísticas
 

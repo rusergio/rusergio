@@ -13,10 +13,10 @@
 
 ## 📊 Estadísticas
 
-<a href="https://github.com/ruisergiomane">
+<a href="https://github.com/rusergio">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=rusergio&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/ruisergiomane">
+<a href="https://github.com/rusergio">
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusergio&layout=compact&langs_count=8&theme=radical" />
 </a>
 

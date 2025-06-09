@@ -35,11 +35,10 @@
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />         
 </div>
 
-          
-          
 ## 🌐 Redes Sociales
 
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)

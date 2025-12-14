@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Rui Sérgio Mané
 
-🎓 Ingeniero en Informática | 💻 Desarrollador Full Stack  
+🎓 Ingeniero Informatico | 💻 Desarrollador Full Stack  
 🚀 Apasionado por el desarrollo web, base de datos y diseño digital
 
 ## 🧑‍💻 Sobre mí

@@ -7,15 +7,6 @@
 - 🌐 Trabajo en proyectos frontend y backend
 - ⚙️ Tecnologías principales: React, Laravel, PostgreSQL
 - 🎨 También tengo experiencia en diseño gráfico y SIG
-  
-## 📊 Estadísticas
-
-<a href="https://github.com/rusergio">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=rusergio&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/rusergio">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusergio&layout=compact&langs_count=8&theme=dark" />
-</a>
 
 ## 💻 Tecnologías
 <div>

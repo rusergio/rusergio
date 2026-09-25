@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 <br>🎓 Software Engineer with a passion for building clean, functional digital products<br>🌐 I work across the full stack — from responsive frontends to robust backend systems<br>⚙️ Core stack: React, Laravel, PostgreSQL<br>🎨 Background in graphic design and GIS (Geographic Information Systems)<br>🚀 Currently focused on shipping and open-sourcing more of my projects<br>💬 Ask me about web development, databases, or spatial data
 
 ## 💻 Languages & Tecnology

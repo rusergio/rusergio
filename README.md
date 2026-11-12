@@ -27,4 +27,13 @@
 </div>
 
 ## 📊 GitHub Stats:
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=rusergio&show_icons=true&theme=dark_github&rank_icon=github&include_all_commits=true&custom_title=Rui's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" /> <img src="https://github-stats-extended.vercel.app/api?username=rusergio&show_icons=true&theme=light_github&rank_icon=github&include_all_commits=true&custom_title=Rui's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Rui's GitHub stats" width="50%" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rusergio&langs_count=6&layout=compact&theme=dark_github" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rusergio&langs_count=7&layout=compact&theme=light_github" alt="Top Langs" width="41%" /> </picture> </div>
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rusergio/github-stats/generated/overview.svg#gh-dark-mode-only" width="49%" />
+<img src="https://raw.githubusercontent.com/rusergio/github-stats/generated/overview.svg#gh-light-mode-only" width="49%" />
+<img src="https://raw.githubusercontent.com/rusergio/github-stats/generated/languages.svg#gh-dark-mode-only" width="49%" />
+<img src="https://raw.githubusercontent.com/rusergio/github-stats/generated/languages.svg#gh-light-mode-only" width="49%" />
+
+</div>
